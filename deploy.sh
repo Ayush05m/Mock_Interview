@@ -2,13 +2,13 @@
 set -e
 
 # Variables
-PROJECT_ID="psyched-era-463605-g3"
+PROJECT_ID=""
 VM_NAME="fastapi-microservice"
 ZONE="asia=south1-a"
 MACHINE_TYPE="e2-medium"
 IMAGE_FAMILY="debian-11"
 IMAGE_PROJECT="debian-cloud"
-SUBDOMAIN="api.mentrax-ai.tech"
+SUBDOMAIN=""
 STARTUP_SCRIPT="startup.sh"
 
 # Create VM
